@@ -1,5 +1,17 @@
 # nextjs-app-2
 
+## null
+
+### Minor Changes
+
+- testing
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+  - ui-shared@5.0.0
+
 ## 0.2.0
 
 ### Minor Changes
