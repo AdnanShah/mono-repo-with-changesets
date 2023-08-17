@@ -1,6 +1,6 @@
 {
-  "name": "nextjs-app",
-  "version": "0.1.0",
+  "name": "nextjs-app-1",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev -p 3001",
@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "ui-shared": "1.0.0",
+    "ui-shared": "2.0.0",
     "@next/font": "13.1.3",
     "@types/node": "18.11.18",
     "@types/react": "18.0.27",
