@@ -20,5 +20,6 @@ Note: the core-ui-test package version must be published before use in the appli
 `pnpm changeset`
 `pnpm changeset status --verbose`
 `pnpm changeset version`
+`pnpm -r publish`
 
 see (here)[https://pnpm.io/using-changesets] for more information about the changeset

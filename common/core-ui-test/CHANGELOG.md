@@ -1,5 +1,11 @@
 # core-ui-test
 
+## 11.0.0
+
+### Major Changes
+
+- refactor
+
 ## 10.0.0
 
 ### Major Changes

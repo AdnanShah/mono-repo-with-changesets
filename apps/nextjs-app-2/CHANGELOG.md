@@ -2,6 +2,13 @@
 
 ## null
 
+### Patch Changes
+
+- Updated dependencies
+  - core-ui-test@11.0.0
+
+## null
+
 ### Minor Changes
 
 - testing
