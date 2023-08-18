@@ -1,7 +1,6 @@
 {
-  "name": "core-ui",
-  "private": true,
-  "version": "6.0.0",
+  "name": "core-ui-test",
+  "version": "9.0.0",
   "description": "",
   "main": "index.js",
   "author": {

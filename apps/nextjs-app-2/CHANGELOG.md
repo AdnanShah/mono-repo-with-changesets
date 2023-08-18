@@ -12,7 +12,8 @@
 - Updated dependencies
 - Updated dependencies
 - Updated dependencies
-  - core-ui@6.0.0
+- Updated dependencies
+  - core-ui-test@9.0.0
 
 ## null
 
@@ -24,7 +25,50 @@
 
 - Updated dependencies
 - Updated dependencies
-  - core-ui@5.0.0
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - core-ui-test@8.0.0
+
+## null
+
+### Minor Changes
+
+- testing
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - core-ui-test@7.0.0
+
+## null
+
+### Minor Changes
+
+- testing
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - core-ui-test@6.0.0
+
+## null
+
+### Minor Changes
+
+- testing
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+  - core-ui-test@5.0.0
 
 ## 0.2.0
 
@@ -36,14 +80,14 @@
 
 - Updated dependencies
 - Updated dependencies
-  - core-ui@4.0.0
+  - core-ui-test@4.0.0
 
 ## 0.1.2
 
 ### Patch Changes
 
 - Updated dependencies
-  - core-ui@3.0.0
+  - core-ui-test@3.0.0
 
 ## 0.1.1
 
@@ -51,4 +95,4 @@
 
 - Updated dependencies
 - Updated dependencies
-  - core-ui@2.0.0
+  - core-ui-test@2.0.0

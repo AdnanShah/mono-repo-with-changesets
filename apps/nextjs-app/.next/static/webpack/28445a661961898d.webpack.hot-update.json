@@ -10,7 +10,7 @@
     "./pages/_app.tsx",
     "./styles/globals.css",
     "../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=%2Fhome%2Fadnan%2Fatex-online%2Fpocs%2Fnextjs-sharing-code-monorepo%2FNextJs-Pnpm-Workspaces-Integration-Test-DoNotTouch-v0-prod-me-south-1%2Fapps%2Fnextjs-app%2Fpages%2Findex.tsx&page=%2F!",
-    "../core-ui/index.js",
+    "../core-ui-test/index.js",
     "./pages/index.tsx"
   ]
 }

@@ -1,5 +1,5 @@
 // @ts-ignore
-import { Greeting } from "core-ui";
+import { Greeting } from "core-ui-test";
 
 export default function Home() {
   return (

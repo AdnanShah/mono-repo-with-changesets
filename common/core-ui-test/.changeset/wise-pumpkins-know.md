@@ -1,5 +1,5 @@
 ---
-"core-ui": major
+"core-ui-test": major
 "nextjs-app-2": minor
 ---
 
