@@ -9,6 +9,20 @@
 - Updated dependencies
 - Updated dependencies
 - Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - core-ui-test@10.0.0
+
+## null
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
   - core-ui-test@9.0.0
 
 ## null

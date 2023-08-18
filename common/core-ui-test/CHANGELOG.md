@@ -1,5 +1,24 @@
 # core-ui-test
 
+## 10.0.0
+
+### Major Changes
+
+- remove to core-ui-test
+- renamed
+- renamed again
+- test
+- test init
+- testing
+
+### Minor Changes
+
+- ver 10
+
+### Patch Changes
+
+- asd
+
 ## 9.0.0
 
 ### Major Changes
