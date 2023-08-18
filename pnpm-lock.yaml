@@ -63,8 +63,8 @@ importers:
         specifier: 18.0.10
         version: 18.0.10
       core-ui-test:
-        specifier: 9.0.0
-        version: 9.0.0(react@18.2.0)
+        specifier: 10.0.0
+        version: link:../../common/core-ui-test
       eslint:
         specifier: 8.32.0
         version: 8.32.0
@@ -912,14 +912,6 @@ packages:
 
   /concat-map@0.0.1:
     resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
-    dev: false
-
-  /core-ui-test@9.0.0(react@18.2.0):
-    resolution: {integrity: sha512-IBWGPoGiBbvQsKNaEr0Io8jzJSQUbCCsM3XVCk3ZNgDx0X1pPvfmThAxD6GtZZi0evk6eZPaoU0U1jTez7uTig==}
-    peerDependencies:
-      react: ^18.2.0
-    dependencies:
-      react: 18.2.0
     dev: false
 
   /cross-spawn@5.1.0:

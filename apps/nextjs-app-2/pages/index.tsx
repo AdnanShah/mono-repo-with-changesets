@@ -1,11 +1,11 @@
 // @ts-ignore
-import { Greeting } from "core-ui-test";
+import { CoreHome } from "core-ui-test";
 
 export default function Home() {
   return (
     <div>
-      <h1>App-2</h1>
-      <Greeting />
+      <h1>App-1</h1>
+      <CoreHome />
     </div>
   );
 }

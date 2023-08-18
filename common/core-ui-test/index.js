@@ -1,5 +1,6 @@
-const Greeting = () => <div>monorepo-pnpm workspaces(version: 10.0.0)</div>
+
+import { Home as CoreHome } from './components/Home'
 
 module.exports = {
-  Greeting
+  CoreHome
 }
