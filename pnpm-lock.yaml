@@ -27,7 +27,7 @@ importers:
         specifier: 18.0.10
         version: 18.0.10
       core-ui-test:
-        specifier: 10.0.0
+        specifier: 11.0.0
         version: link:../../common/core-ui-test
       eslint:
         specifier: 8.32.0
@@ -63,7 +63,7 @@ importers:
         specifier: 18.0.10
         version: 18.0.10
       core-ui-test:
-        specifier: 10.0.0
+        specifier: 11.0.0
         version: link:../../common/core-ui-test
       eslint:
         specifier: 8.32.0

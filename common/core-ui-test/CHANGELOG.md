@@ -1,5 +1,11 @@
 # core-ui-test
 
+## 12.0.0
+
+### Major Changes
+
+- ver 12
+
 ## 11.0.0
 
 ### Major Changes
