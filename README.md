@@ -1,3 +1,5 @@
+Demo to use different versions of the same package.
+
 ## Install
 
 `pnpm install`
@@ -15,10 +17,8 @@
 used changeset to version core-ui-test package so that we can use different versions of core.
 Note: the core-ui-test package version must be published before use in the applications.
 
-`npx changeset init`
-`npx changeset`
-`npx changeset status --verbose`
-`npx changeset version`
-`npx changeset publish`
+`pnpm changeset`
+`pnpm changeset status --verbose`
+`pnpm changeset version`
 
 see (here)[https://pnpm.io/using-changesets] for more information about the changeset
