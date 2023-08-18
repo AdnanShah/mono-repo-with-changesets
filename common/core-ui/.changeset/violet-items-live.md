@@ -1,5 +1,5 @@
 ---
-"ui-shared": major
+"core-ui": major
 ---
 
 test init

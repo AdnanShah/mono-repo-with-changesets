@@ -62,7 +62,7 @@ const nextConfig = {
       },
     ];
   },
-  transpilePackages: ["../date-formatter-lib", "../ui-shared"],
+  transpilePackages: ["../date-formatter-lib", "../core-ui"],
 }
 
 module.exports = nextConfig

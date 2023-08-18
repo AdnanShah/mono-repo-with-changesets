@@ -1,6 +1,6 @@
 {
-  "name": "ui-shared-test",
-  "version": "5.0.0",
+  "name": "core-ui",
+  "version": "6.0.0",
   "description": "",
   "main": "index.js",
   "author": {
