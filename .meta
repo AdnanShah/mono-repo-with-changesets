@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "apps/nextjs-app-1": "https://github.com/AdnanShah/nextjs-app-1.git",
+    "apps/nextjs-app-2": "https://github.com/AdnanShah/nextjs-app-2.git",
+    "common": "https://github.com/AdnanShah/common.git"
+  }
+}

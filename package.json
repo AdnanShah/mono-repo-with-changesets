@@ -9,11 +9,12 @@
     "email": "adnanshah9911@gmail.com"
   },
   "scripts": {
+    "dev": "echo me",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "license": "ISC",
-  "devDependencies": {
-    "@changesets/cli": "^2.26.2"
+  "dependencies": {
+    "meta-npm": "^1.2.7"
   }
 }
