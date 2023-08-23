@@ -1,5 +1,5 @@
 {
-  "name": "pnpm-mono",
+  "name": "meta-repo",
   "email": "adnanshah9911@gmail.com",
   "version": "1.0.0",
   "description": "",
@@ -14,7 +14,5 @@
   },
   "keywords": [],
   "license": "ISC",
-  "dependencies": {
-    "meta-npm": "^1.2.7"
-  }
+  "dependencies": {}
 }
