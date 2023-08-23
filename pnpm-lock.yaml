@@ -23,8 +23,8 @@ importers:
         specifier: 18.0.10
         version: 18.0.10
       core-ui-test:
-        specifier: file:../../common
-        version: file:common(react@18.2.0)
+        specifier: workspace:*
+        version: link:../../common
       eslint:
         specifier: 8.32.0
         version: 8.32.0
@@ -79,6 +79,12 @@ importers:
       typescript:
         specifier: 4.9.4
         version: 4.9.4
+
+  common:
+    dependencies:
+      react:
+        specifier: ^18.2.0
+        version: 18.2.0
 
 packages:
 
@@ -2272,16 +2278,6 @@ packages:
   /yocto-queue@0.1.0:
     resolution: {integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==}
     engines: {node: '>=10'}
-    dev: false
-
-  file:common(react@18.2.0):
-    resolution: {directory: common, type: directory}
-    id: file:common
-    name: core-ui-test
-    peerDependencies:
-      react: ^18.2.0
-    dependencies:
-      react: 18.2.0
     dev: false
 
   github.com/AdnanShah/common/26fcbeecbce7ab2661a044bc22635feec8e3bd1d(react@18.2.0):
